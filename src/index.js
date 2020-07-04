@@ -29,7 +29,7 @@ function AddPersonForm(props) {
             <span>CONTACT NAME</span>
             <input
                 type="text"
-                placeholder="Add New Contact"
+                placeholder="add New Contact"
                 onChange={handleChange}
                 value={person}
                 required
